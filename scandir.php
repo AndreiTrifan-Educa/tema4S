@@ -8,5 +8,5 @@
     SCANDIR_SORT_ASCENDING (0)
     SCANDIR_SORT_DESCENDING (1)
     SCANDIR_SORT_NONE (sin orden)
-     */
+    */
 ?>
